@@ -1,5 +1,5 @@
-#!/usr/bin/env bash
-# Written by nylar (nylar357 @ GitHub)
+#!/bin/sh
+# Edited for the Nord N10 & Pixel 3a by nylar (nylar357 @ GitHub)
 
 # Maximum unsigned integer size in C
 UINT_MAX="4294967295"
