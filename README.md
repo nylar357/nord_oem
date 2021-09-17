@@ -80,3 +80,12 @@ by setting it up on boot with EXKernel Manager or Franco Kernel Manager, but the
 Memory, ect for optimum battery & performance gains.  I've been running Ktweak on several phones and amoung the universal tweaks out there is is FAR superior.
 
 [KTweak Github page](https://github.com/tytydraco/KTweak)
+
+and for gods sake GO BACK AND DISABLE USB DEBUGGING, the Nord N10 has a wireless ADB Debugging option available and if 
+you enabled that DISABLE IT and keep in mind.  Should you ever forget to turn that slightly more convienent method of
+using the ADB, your handing full control over to anyone with your IP, its as simple as 
+
+```adb connect yourip:5555```
+
+and your 100% compromised.  So please tell your friends and never forget TURN OFF ADB DEBUGGING OF ANY FORM, IF YOUR NOT 
+USING IT IN THAT MOMENT IT SHOULD NOT BE ON.
