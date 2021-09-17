@@ -38,5 +38,5 @@ Request your unlock token here, there is full instructions : https://www.oneplus
 This will take the whole 7 days unforunately and I tried several crypto methods but got no where.
 Once you've obtained your unlock token 
 
-'''fastboot flash cust-unlock unlock_code.bin'''
-'''fastboot flashing unlock'''
+```fastboot flash cust-unlock unlock_code.bin```
+```fastboot flashing unlock```
