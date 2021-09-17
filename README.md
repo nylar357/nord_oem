@@ -22,23 +22,27 @@ com.oem.oemlogkit   com.oem.rftoolkit   cn.oneplus.oemtcma    com.oem.logkitsdse
 cn.oneplus.oemtcma  com.oneplus.setupwizard   com.oneplus.factorymode
 net.oneplus.odm     net.oneplus.odm.provider  cn.oneplus.nvbackup
 com.oneplus.account net.oneplus.push    com.oneplus.brickmode   com.qualcomm.qti.uceShimService
-com.android.ons
-com.example.tmo
-com.qualcomm.qti.remoteSimlockAuth
-com.qualcomm.qti.uim
-com.qualcomm.qti.uimGbaApp  org.ifaa.aidl.manager
-com.google.android.apps.setupwizard.searchselector
-com.qualcomm.qti.seccamservice
-com.android.traceur
-com.android.managedprovisioning
+com.android.ons   com.example.tmo   com.qualcomm.qti.remoteSimlockAuth
+com.qualcomm.qti.uim   com.qualcomm.qti.uimGbaApp  org.ifaa.aidl.manager
+com.google.android.apps.setupwizard.searchselector  com.qualcomm.qti.seccamservice
+com.android.traceur   com.android.managedprovisioning
 ```
+I would be careful with the original debloat script, it does remove some packages users might use regularly
+or just packages that your phone may need depending on the apps you have installed & your usage.  Its not a bad
+idea to check out these packages and make sure you know what your removing before you just start uninstalling system
+packages.  I started with the most logical routes to removing the lock, without removing things that probably SHOULD 
+be on your device.
+
 Bootloader Unlock :
 
 [Request your unlock token here, there is full instructions](https://www.oneplus.com/unlock_token)
 This will take the whole 7 days unforunately and I tried several crypto methods but got no where.
 Once you've obtained your unlock token 
 
+```adb reboot bootloader```
+
 ```fastboot flash cust-unlock unlock_code.bin```
+
 ```fastboot flashing unlock```
 
 Rooting :
@@ -49,11 +53,21 @@ Rooting :
 
 [Magisk Manager 23.0](https://github.com/topjohnwu/Magisk/releases)
 
-Install the Magisk APK either thru a traditional install or ```adb install apk_path```
-Patch the supplied boot image with magisk manager app: ```Install > Select and Patch a File```
+Install the Magisk APK either thru a traditional install or 
+
+```adb install magisk_apk_path```
+
+Patch the supplied boot image with magisk manager app: 
+
+```Install > Select and Patch a File```
+
 Select the unpatched image, make note of the patched name, and move it to your adb device (laptop/desktop)
 from your computer 
+
+```adb reboot bootloader```
+
 ```fastboot flash boot patched_image_path``` 
+
 ```fastboot reboot```
 
 Do not interfere with the booting, in other words don't pause it by accidently pressing the power button or anything.
