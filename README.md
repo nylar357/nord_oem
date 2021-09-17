@@ -40,5 +40,29 @@ Once you've obtained your unlock token
 
 ```fastboot flash cust-unlock unlock_code.bin```
 ```fastboot flashing unlock```
+
 Rooting :
 
+[Oxygen 11.0.1 Extracted Boot Image](https://forum.xda-developers.com/attachments/11-0-1-be88cb-boot-img-unpatched-zip.5400901/)
+
+[Oxygen 11.0.1 Magisk Patched Boot Image](https://forum.xda-developers.com/attachments/11-0-1-be88cb-magisk_patched-img-zip.5401133/)
+
+[Magisk Manager 23.0](https://github.com/topjohnwu/Magisk/releases)
+
+Install the Magisk APK either thru a traditional install or ```adb install apk_path```
+Patch the supplied boot image with magisk manager app: ```Install > Select and Patch a File```
+Select the unpatched image, make note of the patched name, and move it to your adb device (laptop/desktop)
+from your computer 
+```fastboot flash boot patched_image_path``` 
+```fastboot reboot```
+
+Do not interfere with the booting, in other words don't pause it by accidently pressing the power button or anything.
+Once your N10 has booted up, you don't have to but I reccommend jumping back into magisk and using the Direct Install method
+just to be sure your root is permanant.
+
+Voila your now bootloader unlocked & Rooted, without ever having to payoff your phone or wait for a bumbling tmobile 
+employee to unlock your device.  I would shut off Auto System Updates.  I've also included a Ktweak script & magisk module.  You can use the KTweak script
+by setting it up on boot with EXKernel Manager or Franco Kernel Manager, but the Magisk Module has been working just fine for me.  This will tweak your CPU,
+Memory, ect for optimum battery & performance gains.  I've been running Ktweak on several phones and amoung the universal tweaks out there is is FAR superior.
+
+[KTweak Github page](https://github.com/tytydraco/KTweak)
