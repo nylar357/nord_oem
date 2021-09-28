@@ -86,7 +86,7 @@ employee to unlock your device.  I would shut off Auto System Updates.  I've als
 by setting it up on boot with EXKernel Manager or Franco Kernel Manager, but the Magisk Module has been working just fine for me.  This will tweak your CPU,
 Memory, ect for optimum battery & performance gains.  I've been running Ktweak on several phones and amoung the universal tweaks out there is is FAR superior.
 
-[KTweak Github page](https://github.com/tytydraco/KTweak)
+[KTweak Github page](https://github.com/nylar357/nord_oem/tree/main/Ktweak)
 
 and for gods sake GO BACK AND DISABLE USB DEBUGGING, the Nord N10 has a wireless ADB Debugging option available and if 
 you enabled that DISABLE IT and keep in mind.  Should you ever forget to turn that slightly more convienent method of
@@ -98,6 +98,4 @@ and your 100% compromised.  So please tell your friends and never forget TURN OF
 USING IT IN THAT MOMENT IT SHOULD NOT BE ON.
 
 
-TIP ME!
-
-<img src="img/Screenshot_20210928-140835.jpg" height="250" width="250">
+[Buy me a coffee](https://www.holonis.com/varad0x/p/reciprocate)
