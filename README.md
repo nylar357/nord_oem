@@ -1,7 +1,7 @@
 Tested Successfully on : Tmobile Nord N10 5g (billie) on Oxygen 11.0.1 BE2028
 
 I discovered this debloat on xda: 
-[XDA Tweak Post "Chink in the Armor"](https://forum.xda-developers.com/t/found-a-chink-in-the-armor-just-enabled-oem-unlocking-after-11-update.4306687/ |  width="200" height="400")
+[XDA Tweak Post "Chink in the Armor"](https://forum.xda-developers.com/t/found-a-chink-in-the-armor-just-enabled-oem-unlocking-after-11-update.4306687/)
 
 As you can see below, the carrier is stil locked.  
 
