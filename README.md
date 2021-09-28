@@ -4,7 +4,7 @@ Thanks to ```TowardsDawn``` from xda-developers for alerting me to this issue, s
 ```adb shell input keyevent 66```
 
 
-Tested Successfully on : Tmobile Nord N10 5g (billie) on Oxygen 11.0.1 BE2028
+Tested Successfully on : Tmobile Nord N10 5g (billie) on Oxygen 11.0.1 BE2028 (again thanks to ```TowardsDawn``` for confirming this method working as of 9/25)
 
 I discovered this debloat on xda: 
 [XDA Tweak Post "Chink in the Armor"](https://forum.xda-developers.com/t/found-a-chink-in-the-armor-just-enabled-oem-unlocking-after-11-update.4306687/)
