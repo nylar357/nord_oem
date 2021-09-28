@@ -89,3 +89,8 @@ using the ADB, your handing full control over to anyone with your IP, its as sim
 
 and your 100% compromised.  So please tell your friends and never forget TURN OFF ADB DEBUGGING OF ANY FORM, IF YOUR NOT 
 USING IT IN THAT MOMENT IT SHOULD NOT BE ON.
+
+
+TIP ME!
+
+![preview](img/Screenshot_20210928-140835.jpg)
