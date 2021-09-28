@@ -4,10 +4,9 @@ I discovered this debloat on xda:
 [XDA Tweak Post "Chink in the Armor"](https://forum.xda-developers.com/t/found-a-chink-in-the-armor-just-enabled-oem-unlocking-after-11-update.4306687/)
 
 As you can see below, the carrier is stil locked.  
-<img src="img/Screenshot_20210916-221027.jpg" width="48">
+<img src="img/Screenshot_20210916-221027.jpg" height="250" width="250">
 
 
-![preview](img/Screenshot_20210916-221027.jpg){:height="24px" height="250" width="250px"}
 
 Now you'll also see that the bootloader is unlocked & the phone is rooted.
 
