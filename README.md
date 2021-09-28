@@ -7,7 +7,7 @@ As you can see below, the carrier is stil locked.
 <img src="img/Screenshot_20210916-221027.jpg" width="48">
 
 
-![preview](img/Screenshot_20210916-221027.jpg){:height="24px" width="48px"}
+![preview](img/Screenshot_20210916-221027.jpg){:height="24px" height="250" width="250px"}
 
 Now you'll also see that the bootloader is unlocked & the phone is rooted.
 
