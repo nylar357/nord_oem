@@ -5,7 +5,7 @@ I discovered this debloat on xda:
 
 As you can see below, the carrier is stil locked.  
 
-![preview](img/Screenshot_20210916-221027.jpg)
+![preview](img/Screenshot_20210916-221027.jpg width="200" height="400")
 
 Now you'll also see that the bootloader is unlocked & the phone is rooted.
 
