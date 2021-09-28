@@ -4,17 +4,17 @@ I discovered this debloat on xda:
 [XDA Tweak Post "Chink in the Armor"](https://forum.xda-developers.com/t/found-a-chink-in-the-armor-just-enabled-oem-unlocking-after-11-update.4306687/)
 
 As you can see below, the carrier is stil locked.  
-<img src="img/Screenshot_20210916-221027.jpg" height="250" width="250">
+<img src="img/Screenshot_20210916-221027.jpg" height="250" width="200">
 
 
 
 Now you'll also see that the bootloader is unlocked & the phone is rooted.
 
 
-![preview](img/Screenshot_20210916-221017.jpg)
+<img src="img/Screenshot_20210916-221017.jpg" height="250" width="250">
 
 
-![preview](img/Screenshot_20210916-221007.jpg)
+<img src="img/Screenshot_20210916-221007.jpg" height="250" width="250">
 
 These are the packages being uninstalled, I started with the nord applications and somewhere along the way it broke the security stopping the oem unlock feature.  I haven't narrowed it down yet.  I'm fairly certain its one of the *.oem or *.oneplus packages.  Also the Shim service is associated with the Tmobile Carrier Unlock app.  I would use the list of services in this order but its totally up to you.  I can tell you however it will work.
 
@@ -94,4 +94,4 @@ USING IT IN THAT MOMENT IT SHOULD NOT BE ON.
 
 TIP ME!
 
-![preview](img/Screenshot_20210928-140835.jpg)
+<img src="img/Screenshot_20210928-140835.jpg" height="250" width="250">
