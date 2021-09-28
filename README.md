@@ -1,3 +1,9 @@
+Thanks to ```TowardsDawn``` from xda-developers for alerting me to this issue, should you run into an issue with missing keyboard run the following adb commands :
+
+```adb shell input text password```
+```adb shell input keyevent 66```
+
+
 Tested Successfully on : Tmobile Nord N10 5g (billie) on Oxygen 11.0.1 BE2028
 
 I discovered this debloat on xda: 
