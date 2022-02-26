@@ -1,12 +1,7 @@
-Thanks to ```TowardsDawn``` from xda-developers for alerting me to this issue, should you run into an issue with missing keyboard run the following adb commands to allow you to login and address the issue:
 
-```adb shell input text password```
-```adb shell input keyevent 66```
+Tested Successfully on : Tmobile Nord N10 5g (billie) on Oxygen 11.0.1 BE2028 (again thanks to ```TowardsDawn``` for confirming this method working as of 02/22
+I discovered this debloat script on XDA and quickly found that with it you can circumvent totally the requirement that your device be carrier unlocked from TMO (paid off &/or carrier unlock paid fee -- meaning that with this method you can root your device day 1 regardless of your payment method -- whether that be in full or as a payment plan)
 
-
-Tested Successfully on : Tmobile Nord N10 5g (billie) on Oxygen 11.0.1 BE2028 (again thanks to ```TowardsDawn``` for confirming this method working as of 9/25)
-
-I discovered this debloat on xda: 
 [XDA Tweak Post "Chink in the Armor"](https://forum.xda-developers.com/t/found-a-chink-in-the-armor-just-enabled-oem-unlocking-after-11-update.4306687/)
 
 As you can see below, the carrier is stil locked.  
@@ -88,6 +83,22 @@ Memory, ect for optimum battery & performance gains.  I've been running Ktweak o
 
 [KTweak Github page](https://github.com/nylar357/nord_oem/tree/main/Ktweak)
 
+Update 02/22 I've been running LineageOS on my Nord for several months now and it works great!  I would avoid any version of GAPPS & avoid trying to install the playstore as all methods I've found available simply put the device into an unrecoverable bootloop.  Requiring you to start over from square one.
+
+<img src="img/ktweak.png" height="250" width="200">
+
+<img src="img/lineage.jpg" height="250" width="200">
+
+<img src="img/os.jpg" height="250" width="200">
+
+<img src="img/ram.jpg" height="250" width="200">
+
+<img src="img/tweAK.png" height="250" width="200">
+
+<img src="img/HARDWARE.png" height="250" width="200">
+
+
+
 and for gods sake GO BACK AND DISABLE USB DEBUGGING, the Nord N10 has a wireless ADB Debugging option available and if 
 you enabled that DISABLE IT and keep in mind.  Should you ever forget to turn that slightly more convienent method of
 using the ADB, your handing full control over to anyone with your IP, its as simple as 
@@ -97,5 +108,9 @@ using the ADB, your handing full control over to anyone with your IP, its as sim
 and your 100% compromised.  So please tell your friends and never forget TURN OFF ADB DEBUGGING OF ANY FORM, IF YOUR NOT 
 USING IT IN THAT MOMENT IT SHOULD NOT BE ON.
 
+Thanks to ```TowardsDawn``` from xda-developers for alerting me to this issue, should you run into an issue with missing keyboard run the following adb commands to allow you to login and address the issue:
 
-[Buy me a coffee](https://www.holonis.com/varad0x/p/reciprocate)
+```adb shell input text password```
+```adb shell input keyevent 66```
+
+
