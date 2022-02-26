@@ -1,4 +1,7 @@
 
+
+<img src="img/ghostpeach.png" height="65" width="65"> <img src="img/ghosters.png" height="65" width="65">  <img src="img/ghost2.png" height="65" width="65">  <img src="img/ghost5.png" height="65" width="65">  <img src="img/ghostpastel.png" height="65" width="65"> <img src="img/ghostpootie.png" height="65" width="65">  <img src="img/ghostpeach.png" height="65" width="65">  <img src="img/ghosters.png" height="65" width="65">  
+
 Update 02/22 I've been running LineageOS on my Nord for several months now and it works great!  I would avoid any version of GAPPS & avoid trying to install the playstore as all methods I've found available simply put the device into an unrecoverable bootloop.  Requiring you to start over from square one.
 
 <img src="img/ktweak.png" height="250" width="175"> <img src="img/lineage.jpg" height="250" width="175"> <img src="img/os.jpg" height="200" width="180">
