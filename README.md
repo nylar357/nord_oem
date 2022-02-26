@@ -23,10 +23,7 @@ As you can see below, the carrier is stil locked.
 Now you'll also see that the bootloader is unlocked & the phone is rooted.
 
 
-<img src="img/Screenshot_20210916-221017.jpg" height="250" width="200">
-
-
-<img src="img/Screenshot_20210916-221007.jpg" height="250" width="200">
+<img src="img/Screenshot_20210916-221017.jpg" height="250" width="200"> <img src="img/Screenshot_20210916-221007.jpg" height="250" width="200">
 
 These are the packages being uninstalled, I started with the nord applications and somewhere along the way it broke the security stopping the oem unlock feature.  I haven't narrowed it down yet.  I'm fairly certain its one of the *.oem or *.oneplus packages.  Also the Shim service is associated with the Tmobile Carrier Unlock app.  I would use the list of services in this order but its totally up to you.  I can tell you however it will work.
 
