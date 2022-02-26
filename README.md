@@ -89,10 +89,10 @@ Update 02/22 I've been running LineageOS on my Nord for several months now and i
 
 <img src="img/lineage.jpg" height="250" width="175">
 
-<img src="img/os.jpg" height="250" width="200">
+<img src="img/os.jpg" height="180" width="160">
 
-<img src="img/ram.jpg" height="250" width="175">
-
+<img src="img/ram.jpg" height="180" width="160">
+/
 <img src="img/tweAK.png" height="250" width="200">
 
 <img src="img/HARDWARE.png" height="250" width="175">
