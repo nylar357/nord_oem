@@ -85,17 +85,17 @@ Memory, ect for optimum battery & performance gains.  I've been running Ktweak o
 
 Update 02/22 I've been running LineageOS on my Nord for several months now and it works great!  I would avoid any version of GAPPS & avoid trying to install the playstore as all methods I've found available simply put the device into an unrecoverable bootloop.  Requiring you to start over from square one.
 
-<img src="img/ktweak.png" height="250" width="200">
+<img src="img/ktweak.png" height="250" width="175">
 
-<img src="img/lineage.jpg" height="250" width="200">
+<img src="img/lineage.jpg" height="250" width="175">
 
 <img src="img/os.jpg" height="250" width="200">
 
-<img src="img/ram.jpg" height="250" width="200">
+<img src="img/ram.jpg" height="250" width="175">
 
 <img src="img/tweAK.png" height="250" width="200">
 
-<img src="img/HARDWARE.png" height="250" width="200">
+<img src="img/HARDWARE.png" height="250" width="175">
 
 
 
