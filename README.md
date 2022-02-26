@@ -1,3 +1,5 @@
+### with this you can circumvent totally the requirement that your device be carrier unlocked from TMO (paid off &/or carrier unlock paid fee -- meaning that with this method you can root your device day 1 regardless of your payment method -- whether that be in full or as a payment plan)
+
 
 
 <img src="img/ghostpeach.png" height="65" width="65"> <img src="img/ghosters.png" height="65" width="65">  <img src="img/ghost2.png" height="65" width="65">  <img src="img/ghost5.png" height="65" width="65">  <img src="img/ghostpastel.png" height="65" width="65"> <img src="img/ghostpootie.png" height="65" width="65">  <img src="img/ghostpeach.png" height="65" width="65">  <img src="img/ghosters.png" height="65" width="65">  
