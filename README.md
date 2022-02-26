@@ -91,7 +91,7 @@ Memory, ect for optimum battery & performance gains.  I've been running Ktweak o
 [KTweak Github page](https://github.com/nylar357/nord_oem/tree/main/Ktweak)
 
 
-<img src="img/ghosters.png" height="250" width="175">       <img src="img/meanghost.png" height="250" width="175">
+<img src="img/ghosters.png" height="65" width="65"> <img src="img/ghosters.png" height="65" width="65">  <img src="img/ghosters.png" height="65" width="65">  <img src="img/ghosters.png" height="65" width="65">  
 
 
 and for gods sake GO BACK AND DISABLE USB DEBUGGING, the Nord N10 has a wireless ADB Debugging option available and if 
