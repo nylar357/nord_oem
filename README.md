@@ -90,14 +90,8 @@ Memory, ect for optimum battery & performance gains.  I've been running Ktweak o
 
 [KTweak Github page](https://github.com/nylar357/nord_oem/tree/main/Ktweak)
 
-Update 02/22 I've been running LineageOS on my Nord for several months now and it works great!  I would avoid any version of GAPPS & avoid trying to install the playstore as all methods I've found available simply put the device into an unrecoverable bootloop.  Requiring you to start over from square one.
 
-<img src="img/ktweak.png" height="250" width="175">       <img src="img/lineage.jpg" height="250" width="175">
-
-<img src="img/os.jpg" height="200" width="180">           <img src="img/ram.jpg" height="180" width="160">
-
-<img src="img/tweAK.png" height="200" width="180">        <img src="img/HARDWARE.png" height="250" width="175">
-
+<img src="img/ghosters.png" height="250" width="175">       <img src="img/meanghost.png" height="250" width="175">
 
 
 and for gods sake GO BACK AND DISABLE USB DEBUGGING, the Nord N10 has a wireless ADB Debugging option available and if 
