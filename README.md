@@ -1,12 +1,11 @@
-### with this you can circumvent totally the requirement that your device be carrier unlocked from TMO (paid off &/or carrier unlock paid fee -- meaning that with this method you can root your device day 1 regardless of your payment method -- whether that be in full or as a payment plan)
-
+### with this you can totally bypass any requirement that your device be carrier unlocked from TMO -- paid off &/or carrier unlock fee -- meaning that with this method you can root your device day 1 regardless of your payment method -- whether that be in full or as a payment plan
 
 
 <img src="img/ghostpeach.png" height="65" width="65"> <img src="img/ghosters.png" height="65" width="65">  <img src="img/ghost2.png" height="65" width="65">  <img src="img/ghost5.png" height="65" width="65">  <img src="img/ghostpastel.png" height="65" width="65"> <img src="img/ghostpootie.png" height="65" width="65">  <img src="img/ghostpeach.png" height="65" width="65">  <img src="img/ghosters.png" height="65" width="65">  
 
 Update 02/22 I've been running LineageOS on my Nord for several months now and it works great!  I would avoid any version of GAPPS & avoid trying to install the playstore as all methods I've found available simply put the device into an unrecoverable bootloop.  Requiring you to start over from square one.
 
-<img src="img/ktweak.png" height="250" width="175"> <img src="img/lineage.jpg" height="250" width="175"> <img src="img/os.jpg" height="200" width="180">
+<img src="img/ktweak.png" height="225" width="175"> <img src="img/lineage.jpg" height="225" width="175"> <img src="img/os.jpg" height="200" width="180">
 
 <img src="img/ram.jpg" height="180" width="160"> <img src="img/tweAK.png" height="200" width="180"> <img src="img/HARDWARE.png" height="250" width="175">
 
@@ -99,14 +98,17 @@ Memory, ect for optimum battery & performance gains.  I've been running Ktweak o
 <img src="img/ghosters.png" height="65" width="65"> <img src="img/ghosters.png" height="65" width="65">  <img src="img/ghosters.png" height="65" width="65">  <img src="img/ghosters.png" height="65" width="65">  
 
 
-and for gods sake GO BACK AND DISABLE USB DEBUGGING, the Nord N10 has a wireless ADB Debugging option available and if 
+### GO BACK AND DISABLE USB DEBUGGING 
+the Nord N10 has a wireless ADB Debugging option available and if 
 you enabled that DISABLE IT and keep in mind.  Should you ever forget to turn that slightly more convienent method of
 using the ADB, your handing full control over to anyone with your IP, its as simple as 
 
 ```adb connect yourip:5555```
 
-and your 100% compromised.  So please tell your friends and never forget TURN OFF ADB DEBUGGING OF ANY FORM, IF YOUR NOT 
-USING IT IN THAT MOMENT IT SHOULD NOT BE ON.
+### and your 100% compromised!
+So please tell your friends and never forget 
+### TURN OFF ADB DEBUGGING OF ANY FORM, IF YOUR NOT 
+### USING IT IN THAT MOMENT IT SHOULD NOT BE ON.
 
 Thanks to ```TowardsDawn``` from xda-developers for alerting me to this issue, should you run into an issue with missing keyboard run the following adb commands to allow you to login and address the issue:
 
